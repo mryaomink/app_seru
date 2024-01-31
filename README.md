@@ -1,6 +1,17 @@
 # seru_app
 
-A new Flutter project.
+Aplikasi screen wizard sederhana untuk SERU
+
+Multiple form,
+
+Untuk data Wilayah menggunakan API dari:
+https://goapi.io/api-wilayah-indonesia
+
+Untuk OCR menggunakan Package
+https://pub.dev/packages/mnc_identifier_ocr/example
+
+untuk Image Storage
+https://cloudinary.com/
 
 ## Getting Started
 
