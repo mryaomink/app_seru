@@ -4,6 +4,8 @@ Aplikasi screen wizard sederhana untuk SERU
 
 Multiple form,di step Terakhir jika diklik tombol Finish, maka data berupa json muncul
 
+Link APK: https://drive.google.com/file/d/1cfroEbDQXnHHozOf9Cd1LBtANKgBvEPv/view?usp=sharing
+
 Untuk data Wilayah menggunakan API dari:
 https://goapi.io/api-wilayah-indonesia
 
