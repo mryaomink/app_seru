@@ -523,7 +523,7 @@ class _YaoHomePageState extends State<YaoHomePage> {
           selectedKecamatanIndex: _selectedKecamatanIndex,
           kelurahan: _kelurahan,
           selectedKelurahanIndex: _selectedKelurahanIndex,
-          nik: nik,
+          nik: nikController.text,
           imageUrls: imageUrls),
       isActive: _currentStep == 2,
     );
