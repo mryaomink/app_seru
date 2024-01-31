@@ -4,6 +4,10 @@ Aplikasi screen wizard sederhana untuk SERU
 
 Multiple form,
 
+NOTE:
+ketika scan ktp maka akan mengisi otomatis field NIK,namun Harus di klik dulu,hapus salah satu angka,isi lagi,
+agar data bisa tersimpan
+
 Untuk data Wilayah menggunakan API dari:
 https://goapi.io/api-wilayah-indonesia
 
