@@ -404,7 +404,7 @@ class _YaoHomePageState extends State<YaoHomePage> {
       'kelurahan': _kelurahan.isNotEmpty
           ? _kelurahan[_selectedKelurahanIndex!]['name']
           : 'Belum Dipilih',
-      'nik': nik,
+      'nik': nikController.text,
       'imageKtp': imageUrls.isNotEmpty ? imageUrls[0] : '',
       'imageSelfie': imageUrls.length > 1 ? imageUrls[1] : '',
     };
