@@ -2,7 +2,7 @@
 
 Aplikasi screen wizard sederhana untuk SERU
 
-Multiple form,
+Multiple form,di step Terakhir jika diklik tombol Finish, maka data berupa json muncul
 
 Untuk data Wilayah menggunakan API dari:
 https://goapi.io/api-wilayah-indonesia
