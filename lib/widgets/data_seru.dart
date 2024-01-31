@@ -146,7 +146,7 @@ class DataSeru extends StatelessWidget {
             ),
           ),
           title: const Text(
-            'Fot Selfie',
+            'Foto Selfie',
             style: TextStyle(
               fontSize: 16.0,
               color: Colors.black,
